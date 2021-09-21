@@ -6,3 +6,5 @@ oneNeuron | perceptron
 '''bash
 git add . && git commit -m "docstring updated" && git push origin main
 '''
+
+[Git  handbook] (https://guides.github.com/introduction/git-handbook/)
