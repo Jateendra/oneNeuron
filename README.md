@@ -40,7 +40,7 @@ x1 | x2 | y
 1|0|0
 1|1|1
 
-# 
+# Special Points
 * point 1
 * point 2
 
